@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
 #include "tileClass.hpp"
+#include<cmath>
 
 using namespace std;
 
@@ -28,6 +29,7 @@ int tile::returnTerrainType(int id){
   if (id == this->tile_id){
     return this->terrain;
   }
+    return NULL;
 }
 
 int tile:: updateTileId(int id){
@@ -43,4 +45,7 @@ void tile::connectAdjacentTiles(int* id){
 
 int* tile::returnAdjacentTiles(int id){
   return this->adjacentTiles;
+}
+double tile::findAdj(tile*t){
+   return sqrt(pow(t -> xloc - xloc,2)+pow(t->yloc-yloc, 2));
 }
