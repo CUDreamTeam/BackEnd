@@ -1,0 +1,4 @@
+/Users/gunnarenserro/Documents/github/CuDreamTeam/c#server/WCServer/obj/Debug/netcoreapp3.1/WCServer.csprojAssemblyReference.cache
+/Users/gunnarenserro/Documents/github/CuDreamTeam/c#server/WCServer/obj/Debug/netcoreapp3.1/WCServer.csproj.CoreCompileInputs.cache
+/Users/gunnarenserro/Documents/github/CuDreamTeam/c#server/WCServer/obj/Debug/netcoreapp3.1/WCServer.AssemblyInfoInputs.cache
+/Users/gunnarenserro/Documents/github/CuDreamTeam/c#server/WCServer/obj/Debug/netcoreapp3.1/WCServer.AssemblyInfo.cs
